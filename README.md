@@ -1,1 +1,2 @@
 # odin-recipes
+This course has already been a huge help in learning how to code the basics. Learning the command line has been a huge help for me as I had no idea how to use it before. Im still not 100% confident in much that im doing with the command line but I am for sure more comfortable than when i started. I am very happy I decide to take this course as it has propelled me in ways that were hard for me to comprehend previously. This, by far, has been one of the best decisions I have made to help further my education and future career! :)
